@@ -14,7 +14,6 @@ Este é um projeto integrador entre as disciplinas de Programação Web Front-En
 ## Tecnologias Utilizadas
 
 
-- Git: Sistema de controle de versão para gerenciar o código do projeto.
 - GitHub: Plataforma online para hospedar o repositório do projeto e facilitar a colaboração.
 - Flask: Framework web em Python para o desenvolvimento do lado do servidor.
 - HTML e CSS (Bootstrap): Linguagens de marcação e estilização para criar o front-end do aplicativo.

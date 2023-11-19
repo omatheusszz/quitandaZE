@@ -2,7 +2,7 @@
 
 
 
-# Projeto Integrador: CRUD Básico em Programação Web
+# Projeto: Quitanda
 
 
 ## Descrição
